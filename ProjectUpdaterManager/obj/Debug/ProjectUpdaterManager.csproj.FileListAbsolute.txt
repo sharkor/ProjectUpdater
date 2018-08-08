@@ -1,0 +1,23 @@
+C:\Users\S002\Documents\Visual Studio 2015\Projects\ProjectUpdater\ProjectUpdaterManager\bin\Debug\ProjectUpdaterManager.exe.config
+C:\Users\S002\Documents\Visual Studio 2015\Projects\ProjectUpdater\ProjectUpdaterManager\bin\Debug\ProjectUpdaterManager.exe
+C:\Users\S002\Documents\Visual Studio 2015\Projects\ProjectUpdater\ProjectUpdaterManager\bin\Debug\ProjectUpdaterManager.pdb
+C:\Users\S002\Documents\Visual Studio 2015\Projects\ProjectUpdater\ProjectUpdaterManager\bin\Debug\IPAddressControlLib.dll
+C:\Users\S002\Documents\Visual Studio 2015\Projects\ProjectUpdater\ProjectUpdaterManager\obj\Debug\ProjectUpdaterManager.AddRemote.resources
+C:\Users\S002\Documents\Visual Studio 2015\Projects\ProjectUpdater\ProjectUpdaterManager\obj\Debug\ProjectUpdaterManager.Main.resources
+C:\Users\S002\Documents\Visual Studio 2015\Projects\ProjectUpdater\ProjectUpdaterManager\obj\Debug\ProjectUpdaterManager.Properties.Resources.resources
+C:\Users\S002\Documents\Visual Studio 2015\Projects\ProjectUpdater\ProjectUpdaterManager\obj\Debug\ProjectUpdaterManager.csproj.GenerateResource.Cache
+C:\Users\S002\Documents\Visual Studio 2015\Projects\ProjectUpdater\ProjectUpdaterManager\obj\Debug\ProjectUpdaterManager.exe
+C:\Users\S002\Documents\Visual Studio 2015\Projects\ProjectUpdater\ProjectUpdaterManager\obj\Debug\ProjectUpdaterManager.pdb
+C:\Users\S002\Documents\Visual Studio 2015\Projects\ProjectUpdater\ProjectUpdaterManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\S002\Documents\Visual Studio 2015\Projects\ProjectUpdater\ProjectUpdaterManager\obj\Debug\ProjectUpdaterManager.csprojResolveAssemblyReference.cache
+E:\整理目录\开发相关\库\C#\ProjectUpdater\ProjectUpdaterManager\bin\Debug\ProjectUpdaterManager.exe.config
+E:\整理目录\开发相关\库\C#\ProjectUpdater\ProjectUpdaterManager\obj\Debug\ProjectUpdaterManager.exe
+E:\整理目录\开发相关\库\C#\ProjectUpdater\ProjectUpdaterManager\obj\Debug\ProjectUpdaterManager.pdb
+E:\整理目录\开发相关\库\C#\ProjectUpdater\ProjectUpdaterManager\bin\Debug\ProjectUpdaterManager.exe
+E:\整理目录\开发相关\库\C#\ProjectUpdater\ProjectUpdaterManager\bin\Debug\ProjectUpdaterManager.pdb
+E:\整理目录\开发相关\库\C#\ProjectUpdater\ProjectUpdaterManager\bin\Debug\Newtonsoft.Json.dll
+E:\整理目录\开发相关\库\C#\ProjectUpdater\ProjectUpdaterManager\obj\Debug\ProjectUpdaterManager.AddRemote.resources
+E:\整理目录\开发相关\库\C#\ProjectUpdater\ProjectUpdaterManager\obj\Debug\ProjectUpdaterManager.Main.resources
+E:\整理目录\开发相关\库\C#\ProjectUpdater\ProjectUpdaterManager\obj\Debug\ProjectUpdaterManager.Properties.Resources.resources
+E:\整理目录\开发相关\库\C#\ProjectUpdater\ProjectUpdaterManager\obj\Debug\ProjectUpdaterManager.csproj.GenerateResource.Cache
+E:\整理目录\开发相关\库\C#\ProjectUpdater\ProjectUpdaterManager\obj\Debug\ProjectUpdaterManager.csprojResolveAssemblyReference.cache

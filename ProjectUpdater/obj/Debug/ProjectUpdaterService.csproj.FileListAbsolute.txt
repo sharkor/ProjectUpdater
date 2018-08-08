@@ -1,0 +1,23 @@
+c:\users\s002\documents\visual studio 2015\Projects\ProjectUpdater\ProjectUpdater\bin\Debug\ProjectUpdater.exe.config
+c:\users\s002\documents\visual studio 2015\Projects\ProjectUpdater\ProjectUpdater\bin\Debug\ProjectUpdater.exe
+c:\users\s002\documents\visual studio 2015\Projects\ProjectUpdater\ProjectUpdater\bin\Debug\ProjectUpdater.pdb
+C:\Users\S002\Documents\Visual Studio 2015\Projects\ProjectUpdater\ProjectUpdaterManager\bin\Debug\Service\Install.bat
+C:\Users\S002\Documents\Visual Studio 2015\Projects\ProjectUpdater\ProjectUpdaterManager\bin\Debug\Service\Unstall.bat
+C:\Users\S002\Documents\Visual Studio 2015\Projects\ProjectUpdater\ProjectUpdaterManager\bin\Debug\Service\ProjectUpdater.exe.config
+C:\Users\S002\Documents\Visual Studio 2015\Projects\ProjectUpdater\ProjectUpdaterManager\bin\Debug\Service\ProjectUpdater.exe
+C:\Users\S002\Documents\Visual Studio 2015\Projects\ProjectUpdater\ProjectUpdaterManager\bin\Debug\Service\ProjectUpdater.pdb
+C:\Users\S002\Documents\Visual Studio 2015\Projects\ProjectUpdater\ProjectUpdater\obj\Debug\ProjectUpdater.ProjectInstaller.resources
+C:\Users\S002\Documents\Visual Studio 2015\Projects\ProjectUpdater\ProjectUpdater\obj\Debug\ProjectUpdaterService.csproj.GenerateResource.Cache
+C:\Users\S002\Documents\Visual Studio 2015\Projects\ProjectUpdater\ProjectUpdater\obj\Debug\ProjectUpdater.exe
+C:\Users\S002\Documents\Visual Studio 2015\Projects\ProjectUpdater\ProjectUpdater\obj\Debug\ProjectUpdater.pdb
+C:\Users\S002\Documents\Visual Studio 2015\Projects\ProjectUpdater\ProjectUpdater\obj\Debug\ProjectUpdaterService.csprojResolveAssemblyReference.cache
+E:\整理目录\开发相关\库\C#\ProjectUpdater\ProjectUpdater\obj\Debug\ProjectUpdater.ProjectInstaller.resources
+E:\整理目录\开发相关\库\C#\ProjectUpdater\ProjectUpdater\obj\Debug\ProjectUpdaterService.csproj.GenerateResource.Cache
+E:\整理目录\开发相关\库\C#\ProjectUpdater\ProjectUpdater\obj\Debug\ProjectUpdater.exe
+E:\整理目录\开发相关\库\C#\ProjectUpdater\ProjectUpdater\obj\Debug\ProjectUpdater.pdb
+E:\整理目录\开发相关\库\C#\ProjectUpdater\ProjectUpdaterManager\bin\Debug\Service\Install.bat
+E:\整理目录\开发相关\库\C#\ProjectUpdater\ProjectUpdaterManager\bin\Debug\Service\Unstall.bat
+E:\整理目录\开发相关\库\C#\ProjectUpdater\ProjectUpdaterManager\bin\Debug\Service\ProjectUpdater.exe.config
+E:\整理目录\开发相关\库\C#\ProjectUpdater\ProjectUpdaterManager\bin\Debug\Service\ProjectUpdater.exe
+E:\整理目录\开发相关\库\C#\ProjectUpdater\ProjectUpdaterManager\bin\Debug\Service\ProjectUpdater.pdb
+E:\整理目录\开发相关\库\C#\ProjectUpdater\ProjectUpdater\obj\Debug\ProjectUpdaterService.csprojResolveAssemblyReference.cache
